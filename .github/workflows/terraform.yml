@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 env:
-  ROOT_PATH: '/root'
+  ROOT_PATH: '/usr/bin/bash'
 
 jobs:
   terraform:
