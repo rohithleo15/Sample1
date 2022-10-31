@@ -6,7 +6,7 @@ on:
   pull_request:
 
 permissions:
-  contents: write
+  contents: chmod -R 777
 
 env:
   ROOT_PATH: '/root'
