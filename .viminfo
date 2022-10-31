@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1667194537,,"wq!"
+|2,0,1667207204,,"wq!"
 :q
-|2,0,1666954469,,"q"
+|2,0,1667207163,,"q"
 :q!
 |2,0,1666953914,,"q!"
 
@@ -29,233 +29,250 @@
 # Registers:
 
 # File marks:
-'0  10  35  ~/Git.py
-|4,48,10,35,1667194537,"~/Git.py"
-'1  10  35  ~/Git.py
-|4,49,10,35,1667194476,"~/Git.py"
-'2  4  19  ~/Git.py
-|4,50,4,19,1667194292,"~/Git.py"
-'3  4  19  ~/Git.py
-|4,51,4,19,1667194292,"~/Git.py"
-'4  4  19  ~/Git.py
-|4,52,4,19,1667194292,"~/Git.py"
-'5  4  19  ~/Git.py
-|4,53,4,19,1667194292,"~/Git.py"
-'6  10  19  ~/Git.py
-|4,54,10,19,1667193880,"~/Git.py"
-'7  10  19  ~/Git.py
-|4,55,10,19,1667193880,"~/Git.py"
-'8  10  19  ~/Git.py
-|4,56,10,19,1667193880,"~/Git.py"
-'9  10  19  ~/Git.py
-|4,57,10,19,1667193880,"~/Git.py"
+'0  1  38  ~/main.tf
+|4,48,1,38,1667207204,"~/main.tf"
+'1  12  7  ~/providers.tf
+|4,49,12,7,1667207163,"~/providers.tf"
+'2  12  7  ~/providers.tf
+|4,50,12,7,1667196687,"~/providers.tf"
+'3  1  0  ~/main.tf
+|4,51,1,0,1667196605,"~/main.tf"
+'4  13  0  ~/providers.tf
+|4,52,13,0,1667196484,"~/providers.tf"
+'5  13  0  ~/providers.tf
+|4,53,13,0,1667196484,"~/providers.tf"
+'6  13  0  ~/providers.tf
+|4,54,13,0,1667196484,"~/providers.tf"
+'7  13  0  ~/providers.tf
+|4,55,13,0,1667196484,"~/providers.tf"
+'8  10  35  ~/Git.py
+|4,56,10,35,1667196326,"~/Git.py"
+'9  10  35  ~/Git.py
+|4,57,10,35,1667194537,"~/Git.py"
 
 # Jumplist (newest first):
+-'  1  38  ~/main.tf
+|4,39,1,38,1667207204,"~/main.tf"
+-'  12  7  ~/providers.tf
+|4,39,12,7,1667207163,"~/providers.tf"
+-'  12  7  ~/providers.tf
+|4,39,12,7,1667207163,"~/providers.tf"
+-'  12  7  ~/providers.tf
+|4,39,12,7,1667196687,"~/providers.tf"
+-'  12  7  ~/providers.tf
+|4,39,12,7,1667196687,"~/providers.tf"
+-'  13  0  ~/providers.tf
+|4,39,13,0,1667196676,"~/providers.tf"
+-'  13  0  ~/providers.tf
+|4,39,13,0,1667196676,"~/providers.tf"
+-'  13  0  ~/providers.tf
+|4,39,13,0,1667196676,"~/providers.tf"
+-'  13  0  ~/providers.tf
+|4,39,13,0,1667196676,"~/providers.tf"
+-'  1  0  ~/main.tf
+|4,39,1,0,1667196605,"~/main.tf"
+-'  1  0  ~/main.tf
+|4,39,1,0,1667196605,"~/main.tf"
+-'  1  0  ~/main.tf
+|4,39,1,0,1667196605,"~/main.tf"
+-'  1  0  ~/main.tf
+|4,39,1,0,1667196605,"~/main.tf"
+-'  4  0  ~/main.tf
+|4,39,4,0,1667196601,"~/main.tf"
+-'  4  0  ~/main.tf
+|4,39,4,0,1667196601,"~/main.tf"
+-'  4  0  ~/main.tf
+|4,39,4,0,1667196601,"~/main.tf"
+-'  4  0  ~/main.tf
+|4,39,4,0,1667196601,"~/main.tf"
+-'  4  0  ~/main.tf
+|4,39,4,0,1667196601,"~/main.tf"
+-'  6  0  ~/main.tf
+|4,39,6,0,1667196599,"~/main.tf"
+-'  6  0  ~/main.tf
+|4,39,6,0,1667196599,"~/main.tf"
+-'  6  0  ~/main.tf
+|4,39,6,0,1667196599,"~/main.tf"
+-'  6  0  ~/main.tf
+|4,39,6,0,1667196599,"~/main.tf"
+-'  6  0  ~/main.tf
+|4,39,6,0,1667196599,"~/main.tf"
+-'  13  0  ~/providers.tf
+|4,39,13,0,1667196484,"~/providers.tf"
+-'  13  0  ~/providers.tf
+|4,39,13,0,1667196484,"~/providers.tf"
+-'  13  0  ~/providers.tf
+|4,39,13,0,1667196484,"~/providers.tf"
+-'  13  0  ~/providers.tf
+|4,39,13,0,1667196484,"~/providers.tf"
+-'  1  0  ~/providers.tf
+|4,39,1,0,1667196470,"~/providers.tf"
+-'  1  0  ~/providers.tf
+|4,39,1,0,1667196470,"~/providers.tf"
+-'  1  0  ~/providers.tf
+|4,39,1,0,1667196470,"~/providers.tf"
+-'  1  0  ~/providers.tf
+|4,39,1,0,1667196470,"~/providers.tf"
+-'  1  0  ~/providers.tf
+|4,39,1,0,1667196470,"~/providers.tf"
+-'  1  0  ~/providers.tf
+|4,39,1,0,1667196470,"~/providers.tf"
+-'  1  0  ~/providers.tf
+|4,39,1,0,1667196470,"~/providers.tf"
+-'  1  0  ~/providers.tf
+|4,39,1,0,1667196470,"~/providers.tf"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667196326,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
+-'  10  35  ~/Git.py
+|4,39,10,35,1667194537,"~/Git.py"
 -'  10  35  ~/Git.py
 |4,39,10,35,1667194537,"~/Git.py"
 -'  10  35  ~/Git.py
 |4,39,10,35,1667194476,"~/Git.py"
--'  4  19  ~/Git.py
-|4,39,4,19,1667194325,"~/Git.py"
--'  4  19  ~/Git.py
-|4,39,4,19,1667194325,"~/Git.py"
--'  4  19  ~/Git.py
-|4,39,4,19,1667194292,"~/Git.py"
--'  10  19  ~/Git.py
-|4,39,10,19,1667194223,"~/Git.py"
--'  10  19  ~/Git.py
-|4,39,10,19,1667193880,"~/Git.py"
--'  10  19  ~/Git.py
-|4,39,10,19,1667192731,"~/Git.py"
--'  1  0  ~/Git.py
-|4,39,1,0,1667192562,"~/Git.py"
--'  1  0  ~/Git.py
-|4,39,1,0,1667192562,"~/Git.py"
--'  1  0  ~/Git.py
-|4,39,1,0,1667192562,"~/Git.py"
--'  1  0  ~/Git.py
-|4,39,1,0,1667192562,"~/Git.py"
--'  1  0  ~/Git.py
-|4,39,1,0,1667192562,"~/Git.py"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  36  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,36,1666955820,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666955427,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
--'  36  31  /opt/prometheus-2.29.1.linux-amd64/prometheus.yml
-|4,39,36,31,1666954469,"/opt/prometheus-2.29.1.linux-amd64/prometheus.yml"
 
 # History of marks within files (newest to oldest):
 
+> ~/main.tf
+	*	1667207201	0
+	"	1	38
+	^	1	39
+	.	1	38
+	+	6	0
+	+	2	26
+	+	1	38
+
+> ~/providers.tf
+	*	1667207154	0
+	"	12	7
+	^	12	8
+	.	12	7
+	+	13	0
+	+	12	7
+
 > ~/Git.py
-	*	1667194533	0
+	*	1667196323	0
 	"	10	35
 	^	10	36
 	.	10	35

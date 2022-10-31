@@ -43,3 +43,45 @@ ls
 cd bin/
 ls 
 ./grafana-server
+apt-get update
+clear
+vi Git.py
+./Git.py
+sudo ./Git.py
+chmod +x Git.py
+./Git.py
+vi Git.py
+git init
+git remote add https://github.com/rohithleo15/Sample1.git
+git remote add origin https://github.com/rohithleo15/Sample1.git
+./Git.py
+vi Git.py
+./Git.py
+vi Git.py
+./Git.py
+vi Git.py
+./Git.py
+vi Git.py
+wget -O- https://apt.releases.hashicorp.com/gpg | gpg --dearmor | sudo tee /usr/share/keyrings/hashicorp-archive-keyring.gpg
+PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+wget -O- https://apt.releases.hashicorp.com/gpg | gpg --dearmor | sudo tee /usr/share/keyrings/hashicorp-archive-keyring.gpg
+PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
+sudo apt update && sudo apt install terraform
+terraform --version
+vi providers.tf
+vi main.tf
+terraform init
+terraform plan
+vi providers.tf
+terraform plan
+terraform apply
+ls
+git add main.tf providers.tf
+vi providers.tf
+vi main.tf
+git add main.tf providers.tf
+git commit -m "terraform code"
+git push origin master
+git push origin main
+ls -lart
