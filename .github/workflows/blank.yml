@@ -1,37 +1,25 @@
-# This is a basic workflow to help you get started with Actions
+terraform:
 
-name: CI
+    name: 'Terraform'
+    runs-on: ubuntu-latest
 
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+    - name: Setup Terraform
+      uses: hashicorp/setup-terraform@v1
+      with:
+        cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }}
 
-stages: # List of stages for jobs, and their order of execution
+    - name: Terraform Init
+      run: terraform init
 
-  - build
-  - test
-  - deploy
+    - name: Terraform Format
+      run: terraform fmt -check
 
-terraform_format_check:       # This job runs in the build stage, which runs first.
-  stage: build
-  script:
-    - terraform fmt
-terraform_Init:   # This job runs in the test stage.
-  stage: test   # It only starts when the job in the build stage completes successfully.
-  script:
-    - terraform init
-  artifacts:
-    untracked: true
-terraform_apply:   # This job also runs in the test stage.
-  stage: deploy  # It can run at the same time as unit-test-job (in parallel)
-  dependencies:
-    - terraform_Init
-  script:
-    - terraform apply --auto-approve
+    - name: Terraform Plan
+      run: terraform plan
+
+    - name: Terraform Apply
+      run: terraform apply -auto-approve
