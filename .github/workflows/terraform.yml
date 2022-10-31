@@ -6,7 +6,7 @@ on:
   pull_request:
 
 env:
-  ROOT_PATH: '/home/runner/work/_temp/32c053d7-ff3b-4851-812c-3f5d4a127633'
+  ROOT_PATH: '/root'
 
 jobs:
   terraform:
