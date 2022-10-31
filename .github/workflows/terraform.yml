@@ -6,10 +6,10 @@ on:
   pull_request:
 
 permissions:
-  contents: read
+  contents: write
 
 env:
-  ROOT_PATH: '/usr/bin/bash'
+  ROOT_PATH: '/root'
 
 jobs:
   terraform:
